@@ -1,0 +1,1 @@
+{"name":"Local: Q-1","url":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\Q-1.cpp","tests":[{"id":1701956798014,"input":"a+b*(c^d-e)^(f+g*h)-i","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\Q-1.cpp","group":"local","local":true}

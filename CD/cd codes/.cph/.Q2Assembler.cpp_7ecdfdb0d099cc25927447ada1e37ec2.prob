@@ -1,0 +1,1 @@
+{"name":"Local: Q2Assembler","url":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\Q2Assembler.cpp","tests":[{"id":1701963696715,"input":"b+c*d+f","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\Q2Assembler.cpp","group":"local","local":true}

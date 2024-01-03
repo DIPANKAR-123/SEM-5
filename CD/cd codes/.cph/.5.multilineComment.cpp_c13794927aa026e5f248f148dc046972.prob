@@ -1,0 +1,1 @@
+{"name":"Local: 5","url":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\5.multilineComment.cpp","tests":[{"id":1701952941029,"input":"/*sddfda \n.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\5.multilineComment.cpp","group":"local","local":true}

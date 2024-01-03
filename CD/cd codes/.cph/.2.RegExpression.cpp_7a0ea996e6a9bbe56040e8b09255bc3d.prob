@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\2.RegExpression.cpp","tests":[{"id":1701951614450,"input":"inty func(int c,float y);\nexit","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\2.RegExpression.cpp","group":"local","local":true}

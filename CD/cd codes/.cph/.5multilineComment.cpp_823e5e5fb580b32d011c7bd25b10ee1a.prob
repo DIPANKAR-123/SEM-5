@@ -1,0 +1,1 @@
+{"name":"Local: 5multilineComment","url":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\5multilineComment.cpp","tests":[{"id":1701953628429,"input":"/*/* */hello ji */\n.","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\download\\js_cwh\\SEM5\\CD\\cd codes\\5multilineComment.cpp","group":"local","local":true}
